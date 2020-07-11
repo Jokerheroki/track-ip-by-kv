@@ -9,7 +9,7 @@ python trackout.py
 
 ## Install
 ```
-git clone https://github.com/abaykan/trackout.git
+git clone https://github.com/Jokerheroki/track-ip-by-kv
 cd trackout
 python trackout.py
 ```
