@@ -4,15 +4,18 @@ TrackOut is a simple track-ip-by-kv using *Python*.<br><br>
 
 ## Usage
 ```
-python trackout.py
+python track-ip-by-kv.py
 ```
 
 ## Install
 ```
 git clone https://github.com/Jokerheroki/track-ip-by-kv
-cd trackout
-python trackout.py
+cd track-ip-by-kv
+chmod +x track-ip-by-kv.py *
+python track-ip-by-kv.py
 ```
-## Special Thanks
-- <a href="https://ipdata.co/">ipdata.co</a> - 
-Provide a fast, highly available IP Geolocation API with reliable performance.
+## Support us 
+## follow on instagram 
+## id is unique___hastel
+
+
