@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-#Name          : Trackout
-#Writer(s)     : Abay | abaykan.com
+#Name          : track-ip-by-kv
+#Writer(s)     : kisna verma 
 #Description   : TrackOut is a simple IP Tracker using Python.
 
 import os
@@ -11,13 +11,14 @@ import colorama
 colorama.init(autoreset=True)
 
 os.system("clear");
-print colorama.Fore.CYAN + """
-  _____                _      ___       _   
- /__   \_ __ __ _  ___| | __ /___\_   _| |_ 
-   / /\/ '__/ _` |/ __| |/ ///  // | | | __|
-  / /  | | | (_| | (__|   </ \_//| |_| | |_ 
-  \/   |_|  \__,_|\___|_|\_\___/  \__,_|\__|                                           
-  Python IP Tracker - Abay | abaykan.com
+print colorama.Fore.CYAN + """  
+  __                        __             .__                ___.                    __           
+_/  |_____________    ____ |  | __         |__|_____          \_ |__ ___.__.         |  | _____  __
+\   __\_  __ \__  \ _/ ___\|  |/ /  ______ |  \____ \   ______ | __ <   |  |  ______ |  |/ /\  \/ /
+ |  |  |  | \// __ \\  \___|    <  /_____/ |  |  |_> > /_____/ | \_\ \___  | /_____/ |    <  \   / 
+ |__|  |__|  (____  /\___  >__|_ \         |__|   __/          |___  / ____|         |__|_ \  \_
+ \/     \/     \/            |__|                 \/\/                   \/                                                 
+  Python IP Tracker - kisna 
 """
 print "\r"
 while True:
