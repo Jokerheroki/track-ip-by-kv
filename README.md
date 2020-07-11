@@ -1,6 +1,6 @@
 # TrackOut
-TrackOut is a simple IP Tracker using *Python*.<br><br>
-<center><img src="http://oi63.tinypic.com/b49lhj.jpg" border="0"></center><br>
+TrackOut is a simple track-ip-by-kv using *Python*.<br><br>
+
 
 ## Usage
 ```
