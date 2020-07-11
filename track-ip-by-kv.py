@@ -11,7 +11,7 @@ import colorama
 colorama.init(autoreset=True)
 
 os.system("clear");
-print colorama.Fore.CYAN + """
+print (colorama.Fore.CYAN + """)
 
   __                        __             .__                ___.                    __           
 _/  |_____________    ____ |  | __         |__|_____          \_ |__ ___.__.         |  | _____  __
